@@ -1,6 +1,6 @@
 ---
 title: "adios"
-format: html
+format: pdf
 editor: visual
 ---
 
